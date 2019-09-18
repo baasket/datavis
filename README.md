@@ -1,5 +1,5 @@
-# datavis
-A uni project for a data visualization course.
+# CinémAR
+CinémAR is a uni project for a data visualization course.
 
 This is uploaded as a lightweight Unity Project. Inside the only scene, one 
 should type their IMDB API key (one the DataFetcher instance). Such a key can
@@ -11,8 +11,6 @@ marker is included in this repo.
 This project and this repo contain tools and resources that belong to Unity
 Technologies and other third party corporations and people. Any use, commercial
 or otherwise, of this project, should comply with their rules and guidelines.
-
-Updated on 20190908.
 
 ## Démarche
 L'objectif de ce projet est de coder une petite application pour téléphone mobile,
@@ -34,11 +32,13 @@ associé. Une fois celui-ci installé, lors du premier lancement de l'applicatio
 probable qu'Android demande à l'utilisateur quelques autorisations (caméra et connexion à
 internet, essentiellement).
 
-Au dessus du marqueur AR (cf. fin de ce document), l'application fait apparaître une
+Au dessus du marqueur AR, l'application fait apparaître une
 « salle de cinéma miniature », avec un écran blanc en avant, et un projecteur en arrière. Audessus
 du projecteur se trouve un petit champ de recherche, qui permet de saisir le titre d'un
 film. Si ce film est répertorié dans IMDB, les informations correspondantes seront affichées
 sur l'écran.
+
+![Alt Text](images/ar_marker_001.png)
 
 L'AR permet de visualiser des données qualitatives de manière relativement ludique,
 comme dans une petite salle de cinéma. Néanmoins, CinémAR est avant tout pensé comme un
@@ -72,3 +72,5 @@ différents types de données dans le projet.
 L'API d'IMDB peut renvoyer des données en json ou en XML. Il se trouve que Unity
 propose des outils de parsing du json extrêmement pratiques, raison pour laquelle ce format a
 été utilisé dans le cas de CinémAR.
+
+Updated on 20190918.
