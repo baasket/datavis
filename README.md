@@ -46,7 +46,7 @@ gadget, et n'est pas adapté à une utilisation intensive : l'application n'offr
 fonctionnalité qui ne soit déjà accessible depuis le site d'IMDB, et est fondamentalement une
 démonstration des possibilités de visualisation de données en AR.
 
-##Considérations techniques
+## Considérations techniques
 L'application a été développée avec Unity, sur Windows. Une fois sur Android, elle
 fonctionne en Java, mais a été codée nativement en C# (et en C++, pour le fonctionnement
 interne de Unity). Le choix de Unity vient de ce que cet outil particulièrement bien conçu offre
