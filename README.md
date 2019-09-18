@@ -38,7 +38,7 @@ du projecteur se trouve un petit champ de recherche, qui permet de saisir le tit
 film. Si ce film est répertorié dans IMDB, les informations correspondantes seront affichées
 sur l'écran.
 
-![Alt Text](images/ar_marker_001.png)
+![Alt Text](Images/ar_marker_001.png)
 
 L'AR permet de visualiser des données qualitatives de manière relativement ludique,
 comme dans une petite salle de cinéma. Néanmoins, CinémAR est avant tout pensé comme un
