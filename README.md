@@ -12,6 +12,8 @@ This project and this repo contain tools and resources that belong to Unity
 Technologies and other third party corporations and people. Any use, commercial
 or otherwise, of this project, should comply with their rules and guidelines.
 
+![Alt Text](Images/room_001.png)
+
 ## Démarche
 L'objectif de ce projet est de coder une petite application pour téléphone mobile,
 permettant de visualiser des données sur un film choisi par l'utilisateur, de façon interactive,
@@ -25,6 +27,8 @@ Au plan technique, l'objectif était d'avoir recours à deux API différentes po
 de données et pour leur affichage (respectivement l'API permettant d'interroger IMDB, et
 Vuforia). Le but était aussi de se servir de données de deux types différents (images et texte)
 et de formats standardisés (.jpg, .png pour les images, et json pour le texte).
+
+![Alt Text](Images/imdb_ps_001.png)
 
 ## Utilisation de l'application
 Pour utiliser l'application, il faut naturellement commencer par installer le fichier .apk
